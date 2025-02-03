@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ** Released**: 2021.02.05
 
-**Commit Delta**: [Change from 6.0.0 release](https://github.com/plus3it/terraform-aws-tardigrade-vpc-endpoints/compare/6.0.0...6.1.0)
+**Commit Delta**: [Change from 6.0.0 release](https://github.com/MetroStar/terraform-aws-tardigrade-vpc-endpoints/compare/6.0.0...6.1.0)
 
 **Summary**:
 
@@ -18,7 +18,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ** Released**: 2020.04.10
 
-**Commit Delta**: [Change from 4.0.0 release](https://github.com/plus3it/terraform-aws-tardigrade-vpc-endpoints/compare/4.0.0...4.0.1)
+**Commit Delta**: [Change from 4.0.0 release](https://github.com/MetroStar/terraform-aws-tardigrade-vpc-endpoints/compare/4.0.0...4.0.1)
 
 **Summary**:
 
@@ -28,7 +28,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ** Released**: 2020.04.09
 
-**Commit Delta**: [Change from 3.0.0 release](https://github.com/plus3it/terraform-aws-tardigrade-vpc-endpoints/compare/3.0.0...4.0.0)
+**Commit Delta**: [Change from 3.0.0 release](https://github.com/MetroStar/terraform-aws-tardigrade-vpc-endpoints/compare/3.0.0...4.0.0)
 
 **Summary**:
 
@@ -39,7 +39,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ** Released**: 2020.04.03
 
-**Commit Delta**: [Change from 2.0.0 release](https://github.com/plus3it/terraform-aws-tardigrade-vpc-endpoints/compare/2.0.0...3.0.0)
+**Commit Delta**: [Change from 2.0.0 release](https://github.com/MetroStar/terraform-aws-tardigrade-vpc-endpoints/compare/2.0.0...3.0.0)
 
 **Summary**:
 
@@ -51,7 +51,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 **Released**: 2019.11.1
 
-**Commit Delta**: [Change from 1.0.2 release](https://github.com/plus3it/terraform-aws-tardigrade-vpc-endpoints/compare/1.0.2...2.0.0)
+**Commit Delta**: [Change from 1.0.2 release](https://github.com/MetroStar/terraform-aws-tardigrade-vpc-endpoints/compare/1.0.2...2.0.0)
 
 **Summary**:
 
@@ -62,7 +62,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 **Released**: 2019.10.28
 
-**Commit Delta**: [Change from 1.0.1 release](https://github.com/plus3it/terraform-aws-tardigrade-vpc-endpoints/compare/1.0.1...1.0.2)
+**Commit Delta**: [Change from 1.0.1 release](https://github.com/MetroStar/terraform-aws-tardigrade-vpc-endpoints/compare/1.0.1...1.0.2)
 
 **Summary**:
 
@@ -74,7 +74,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 **Released**: 2019.10.02
 
-**Commit Delta**: [Change from 1.0.0 release](https://github.com/plus3it/terraform-aws-tardigrade-vpc-endpoints/compare/1.0.0...1.0.1)
+**Commit Delta**: [Change from 1.0.0 release](https://github.com/MetroStar/terraform-aws-tardigrade-vpc-endpoints/compare/1.0.0...1.0.1)
 
 **Summary**:
 
@@ -85,7 +85,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 **Released**: 2019.09.11
 
-**Commit Delta**: [Change from 0.0.0 release](https://github.com/plus3it/terraform-aws-tardigrade-vpc-endpoints/compare/0.0.0...1.0.0)
+**Commit Delta**: [Change from 0.0.0 release](https://github.com/MetroStar/terraform-aws-tardigrade-vpc-endpoints/compare/0.0.0...1.0.0)
 
 **Summary**:
 
